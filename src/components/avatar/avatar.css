@@ -1,0 +1,7 @@
+img {
+    width: 100px;
+    border-radius: 50%;
+    display: block;
+    object-fit: cover;
+    margin: 0 auto;
+}
